@@ -1,0 +1,42 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!task_3/src/main/**/target/
+!task_3/src/test/**/target/
+
+### IntelliJ IDEA ###
+out/
+!task_3/src/main/**/out/
+!task_3/src/test/**/out/
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!task_3/src/main/**/bin/
+!task_3/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!task_3/src/main/**/build/
+!task_3/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
